@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  border-radius: 0; }
+
+a {
+  color: #50514f;
+  font-size: 13px; }
+
+.navbar {
+  background: #525061 !important;
+  border-bottom: solid 7px #b4adea;
+  margin-bottom: 0;
+  border-radius: 0; }
+
+p.h1 {
+  font-size: 30px;
+  text-align: center;
+  /* border-bottom:solid 2px $border-clr;*/ }
+
+.page-h1 {
+  font-size: 60px !important;
+  text-align: center !important;
+  margin-bottom: 10px; }
+
+body {
+  color: #50514f;
+  background-color: #edf2f4;
+  font-size: 10px; }
+
+.carousel-inner img {
+  text-align: center;
+  width: 70%;
+  height: 500px; }
+
+#demo {
+  height: 500px;
+  text-align: center; }
+
+.carousel-control-next-icon-dark {
+  color: black;
+  background: black; }
+
+.black {
+  color: #50514f; }
+
+p {
+  font-size: 20px; }
+
+.cert {
+  text-align: center; }
+
+.btn {
+  background: #525061 !important;
+  border: 4px solid #b4adea !important;
+  height: 70px;
+  width: 100%;
+  text-align: center; }
+
+.btn:hover {
+  background: #686675 !important; }
+
+btn.col {
+  height: 500px; }
+
+footer {
+  color: #edf2f4;
+  border-top: 7px solid #b4adea;
+  border-bottom: none;
+  background-color: #525061; }
+
+.footer-copyright {
+  background: #3E3C49; }
+
+footer li a {
+  color: #b4adea; }
+
+footer li a:hover {
+  color: #8782AF; }
+
+/* USEFUL LINK PAGE */
+.link-list {
+  margin-top: 50px;
+  text-align: center; }
+
+.link-list li a {
+  font-size: 30px;
+  text-align: left;
+  color: #525061 !important; }
+
+.link-list li a:hover {
+  color: #b4adea !important; }
+
+.ul-dog {
+  width: 100%;
+  height: 500px; }
+
+/*Gallery Pages*/
+.gallery-row {
+  margin-bottom: 30px; }
+
+.dog-col a:hover {
+  opacity: 0.7; }
+
+.dog-col {
+  margin-bottom: 20px; }
+
+.dog-col img {
+  border-left: 1px solid #ADACAD;
+  border-right: 1px solid #ADACAD; }
+
+.dog-col ul {
+  font-size: 20px;
+  text-align: justify;
+  list-style: none;
+  border-left: 1px solid #ADACAD;
+  border-right: 1px solid #ADACAD; }
+
+.h2 {
+  background-color: #b4adea;
+  text-align: center;
+  padding: 30px 0px;
+  margin: 20px 0px;
+  font-size: 30px !important;
+  font-weight: 700 !important; }
+
+/* ABOUT US PAGE */
+.aboutUs {
+  padding: 20px 50px !important; }
+
+/*# sourceMappingURL=main.css.map */
